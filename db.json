@@ -1,3 +1,148 @@
 {
-  "incro-term": []
+  "incro-term":  [
+    {
+      "id": 70554075081,
+      "termsName": "Ex Works",
+      "shortName": "EXW",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1448503840345,
+          "headName": "Unloading Charge"
+        }
+      ]
+    },
+    {
+      "id": 1341697327946,
+      "termsName": "Free Carrier",
+      "shortName": "FCA",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1504464294804,
+          "headName": "Delivered Charge"
+        }
+      ]
+    },
+    {
+      "id": 1630958036710,
+      "termsName": "Carriage Paid To",
+      "shortName": "CPT",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1504464294804,
+          "headName": "Unloading Charge"
+        }
+      ]
+    },
+    {
+      "id": 1630958036711,
+      "termsName": "Carriage and Insurance Paid To",
+      "shortName": "CIT",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1504464294804,
+          "headName": "Delivered Charge"
+        }
+      ]
+    },
+    {
+      "id": 1630958036712,
+      "termsName": "Delivered at Place",
+      "shortName": "DAP",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1504464294804,
+          "headName": "Unloading Charge"
+        }
+      ]
+    },
+    {
+      "id": 1630958036713,
+      "termsName": "Delivered at Place Unloaded",
+      "shortName": "DPU",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1504464294804,
+          "headName": "Unloading Charge"
+        }
+      ]
+    },
+    {
+      "id": 1630958036714,
+      "termsName": "Delivered Duty Paid",
+      "shortName": "DDP",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1504464294804,
+          "headName": "Unloading Charge"
+        }
+      ]
+    },
+    {
+      "id": 1630958036715,
+      "termsName": "Free Alongside Ship",
+      "shortName": "FAS",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1504464294804,
+          "headName": "Delivered Charge"
+        }
+      ]
+    },
+    {
+      "id": 1630958036716,
+      "termsName": "Free On Board",
+      "shortName": "FOB",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1504464294804,
+          "headName": "Unloading Charge"
+        },
+        {
+          "id": 42951036514,
+          "headName": "Delivered Charge"
+        }
+      ]
+    },
+    {
+      "id": 784945890247,
+      "termsName": "Cost and Freight",
+      "shortName": "CFR",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 593056337311,
+          "headName": "Unloading Charge"
+        },
+        {
+          "id": 727622267993,
+          "headName": "Delivered Charge"
+        }
+      ]
+    },
+    {
+      "id": 1184002970931,
+      "termsName": "Cost Insurance and Freight",
+      "shortName": "CIF",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 764174544233,
+          "headName": "Unloading Charge"
+        },
+        {
+          "id": 1290062842182,
+          "headName": "Delivered Charge"
+        }
+      ]
+    }
+  ]
 }
